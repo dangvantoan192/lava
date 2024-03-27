@@ -185,3 +185,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x4c56cbcbc"}
 {"jsonrpc":"2.0","id":1,"result":"0x5454d19a6"}
 {"jsonrpc":"2.0","id":1,"result":"0x4cdeff3d5"}
+{"error":"{\"Error_GUID\":\"11695940088969816361\",\"Error\":\"Failed all retries {GUID:11695940088969816361,error:rpc error: code = Unavailable desc = unexpected HTTP status code received from server: 502 (Bad Gateway); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
