@@ -390,3 +390,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x4d32088e0"}
 {"jsonrpc":"2.0","id":1,"result":"0x5a6ff84b9"}
 {"jsonrpc":"2.0","id":1,"result":"0x5dc0fc905"}
+{"error":"{\"Error_GUID\":\"2970931379273688001\",\"Error\":\"Failed all retries {GUID:2970931379273688001,error:rpc error: code = Unknown desc = unexpected HTTP status code received from server: 500 (Internal Server Error); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
